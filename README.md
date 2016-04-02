@@ -1,2 +1,2 @@
-# google-homepage
-# https://github.com/julianflores92/google-homepage.git
+# Google Homepage
+# http://www.theodinproject.com/web-development-101/html-css?ref=lnav
